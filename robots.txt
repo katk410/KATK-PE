@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://katk.io.vn/sitemap.xml
